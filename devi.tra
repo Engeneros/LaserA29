@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'devi.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"mainfile.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "mainfile.o" --strict --scatter "devi.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\devi.map" -o "devi.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'devi.axf'
+### ADS-LD Command File: 'devi.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'devi.lnp', Handle=0x000005DC
+### Writing '.lnp' file
+### ADS-LD Command file 'devi.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

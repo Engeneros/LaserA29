@@ -1,0 +1,95 @@
+Dependencies for Project 'devi', Target 'device': (DO NOT MODIFY !)
+F (.\code\Startup.s)(0x51EE2D6E)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-o .\obj\startup.o --depend .\obj\startup.d)
+F (.\code\mainFile.cpp)(0x538D99AF)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\mainfile.o --depend .\obj\mainfile.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Delay.h)(0x512387EE)
+I (C:\Programs\Keil\ARM\ARMCC\include\stdIo.h)(0x51C7D364)
+I (C:\Programs\Keil\ARM\ARMCC\include\string.h)(0x51C7D364)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\BoardDevices.h)(0x51F79878)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Temperature\AbstractTmetr.h)(0x51710C32)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\AbstractLED.h)(0x515AD79C)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\AbstractButton.h)(0x515AD7AE)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Display\AbstractDisplay.h)(0x51700168)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Encoder\AbstractEncoder.h)(0x51DFA7DA)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\SSPDevices\AbstractSerialIO.h)(0x517507E8)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\IAP\iap.h)(0x49E6DBFC)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uI\UInterfaces.h)(0x533114EA)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Converter\AbstractConverter.h)(0x51F8D59C)
+I (C:\Programs\Keil\ARM\ARMCC\include\math.h)(0x51C7D364)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Converter\Converters.h)(0x51FB6C1E)
+F (.\code\Delay.cpp)(0x51838D4A)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\delay.o --depend .\obj\delay.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\LPC2148_ex.h)(0x51DFC846)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Delay.h)(0x512387EE)
+F (.\code\uC.cpp)(0x51F7494E)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\uc.o --depend .\obj\uc.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uC.h)(0x51DFCBA4)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\LPC2148_ex.h)(0x51DFC846)
+F (.\code\BoardLdCtl4.cpp)(0x51F79878)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\boardldctl4.o --depend .\obj\boardldctl4.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\BoardDevices.h)(0x51F79878)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Temperature\AbstractTmetr.h)(0x51710C32)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\AbstractLED.h)(0x515AD79C)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\AbstractButton.h)(0x515AD7AE)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Display\AbstractDisplay.h)(0x51700168)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Encoder\AbstractEncoder.h)(0x51DFA7DA)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\SSPDevices\AbstractSerialIO.h)(0x517507E8)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Temperature\TMetr.h)(0x51DFABAC)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uc.h)(0x51DFCBA4)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\lpc2148_ex.h)(0x51DFC846)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\SSPDevices\SerialIO.h)(0x51E3AB7A)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\leds.h)(0x5174F7A8)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\buttons.h)(0x5174F49A)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Display\Displays.h)(0x51700214)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Encoder\Encoders.h)(0x51F624DC)
+F (.\code\Encoder\Encoders.cpp)(0x51F75F9E)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\encoders.o --depend .\obj\encoders.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Encoder\Encoders.h)(0x51F624DC)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Encoder\AbstractEncoder.h)(0x51DFA7DA)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uc.h)(0x51DFCBA4)
+I (C:\Programs\Keil\ARM\Inc\Philips\LPC214x.h)(0x51C7D55C)
+F (.\code\ButtLed\LEDs.cpp)(0x51DFE91E)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\leds.o --depend .\obj\leds.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\leds.h)(0x5174F7A8)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\AbstractLED.h)(0x515AD79C)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\SSPDevices\AbstractSerialIO.h)(0x517507E8)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uc.h)(0x51DFCBA4)
+F (.\code\ButtLed\Buttons.cpp)(0x51DFE692)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\buttons.o --depend .\obj\buttons.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\buttons.h)(0x5174F49A)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\AbstractButton.h)(0x515AD7AE)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\SSPDevices\AbstractSerialIO.h)(0x517507E8)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uc.h)(0x51DFCBA4)
+F (.\code\SSPDevices\SerialIO.cpp)(0x51E3AAD8)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\serialio.o --depend .\obj\serialio.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\SSPDevices\SerialIO.h)(0x51E3AB7A)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\SSPDevices\AbstractSerialIO.h)(0x517507E8)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uc.h)(0x51DFCBA4)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\LPC2148_ex.h)(0x51DFC846)
+F (.\code\Display\Displays.cpp)(0x51F75DA6)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\displays.o --depend .\obj\displays.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Display\Displays.h)(0x51700214)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Display\AbstractDisplay.h)(0x51700168)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Delay.h)(0x512387EE)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uc.h)(0x51DFCBA4)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\LPC2148_ex.h)(0x51DFC846)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Display\fonts_0D.h)(0x5208CEFE)
+F (.\code\Temperature\TMetr.cpp)(0x51C47FF0)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\tmetr.o --depend .\obj\tmetr.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Temperature\TMetr.h)(0x51DFABAC)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Temperature\AbstractTmetr.h)(0x51710C32)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uc.h)(0x51DFCBA4)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\LPC2148_ex.h)(0x51DFC846)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Delay.h)(0x512387EE)
+F (.\code\uI\UInterfaces.cpp)(0x538D99AF)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\uinterfaces.o --depend .\obj\uinterfaces.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uI\UInterfaces.h)(0x533114EA)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Display\AbstractDisplay.h)(0x51700168)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\AbstractLED.h)(0x515AD79C)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\ButtLed\AbstractButton.h)(0x515AD7AE)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Encoder\AbstractEncoder.h)(0x51DFA7DA)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Converter\AbstractConverter.h)(0x51F8D59C)
+I (C:\Programs\Keil\ARM\ARMCC\include\stdio.h)(0x51C7D364)
+I (C:\Programs\Keil\ARM\ARMCC\include\string.h)(0x51C7D364)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\boarddevices.h)(0x51F79878)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Temperature\AbstractTmetr.h)(0x51710C32)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\SSPDevices\AbstractSerialIO.h)(0x517507E8)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uc.h)(0x51DFCBA4)
+F (.\code\IAP\iap.cpp)(0x51838D4A)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\iap.o --depend .\obj\iap.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\IAP\iap.h)(0x49E6DBFC)
+I (C:\Programs\Keil\ARM\Inc\Philips\LPC214x.H)(0x51C7D55C)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Delay.h)(0x512387EE)
+F (.\code\Converter\Converters.cpp)(0x51FF2FF8)(--cpp -c --cpu ARM7TDMI -g -O0 --apcs=interwork -I.\code -I.\code\UART -I.\code\Encoder -I.\code\ButtLed -I.\code\SSPDevices -I.\code\Display -I.\code\Temperature -I.\code\uI -I.\code\IAP -I.\code\Converter-I C:\Programs\Keil\ARM\RV31\INC-I C:\Programs\Keil\ARM\CMSIS\Include-I C:\Programs\Keil\ARM\Inc\Philips-DLPC2148 -o .\obj\converters.o --depend .\obj\converters.d)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Converter\Converters.h)(0x51FB6C1E)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\Converter\AbstractConverter.h)(0x51F8D59C)
+I (C:\Programs\Keil\ARM\ARMCC\include\math.h)(0x51C7D364)
+I (D:\d2\www\2013Proj\current\0003_02_06_14\a29_ifc_ia9999\code\uc.h)(0x51DFCBA4)
